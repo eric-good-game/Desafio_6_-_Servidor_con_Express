@@ -1,0 +1,27 @@
+{
+  "name": "challenge_6",
+  "version": "1.0.0",
+  "description": "### **Glitch: <https://fork-wind-seahorse.glitch.me>**",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-good-game/Desafio_6_-_Servidor_con_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-good-game/Desafio_6_-_Servidor_con_Express/issues"
+  },
+  "homepage": "https://github.com/eric-good-game/Desafio_6_-_Servidor_con_Express#readme",
+  "devDependencies": {
+    "express": "^4.18.1"
+  }
+}
